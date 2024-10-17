@@ -1,4 +1,4 @@
-package main.java.org.connerretttech.server;
+package org.connerretttech.server;
 
 
 import org.springframework.boot.SpringApplication;
